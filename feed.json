@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Research Think",
+    "description": "",
+    "home_page_url": "https://github.com/DayuGuo/Zhaoyu-personal-Blog",
+    "feed_url": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zhaoyu Guo"
+    },
+    "items": [
+        {
+            "id": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello.html",
+            "url": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello.html",
+            "title": "Hello",
+            "summary": "Hello every, my name is Zhaoyu Guo",
+            "content_html": "<p>Hello every, my name is Zhaoyu Guo</p>",
+            "author": {
+                "name": "Zhaoyu Guo"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-29T15:24:13+08:00",
+            "date_modified": "2023-03-29T15:24:13+08:00"
+        }
+    ]
+}
