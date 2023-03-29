@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello.html",
-            "url": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello.html",
+            "id": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello/",
+            "url": "https://github.com/DayuGuo/Zhaoyu-personal-Blog/hello/",
             "title": "Hello",
             "summary": "Hello every, my name is Zhaoyu Guo",
             "content_html": "<p>Hello every, my name is Zhaoyu Guo</p>",
